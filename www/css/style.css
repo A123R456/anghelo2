@@ -41,3 +41,18 @@
 #boxbuttons .button:hover {
 	background: #999;
 }
+.q{
+	float: center;
+	width: 300px;
+	margin:25px auto;
+	display:block;
+
+}
+
+.t{
+	text-align: justify;
+
+}
+.p{
+	text-align: justify;
+}
