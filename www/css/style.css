@@ -40,19 +40,22 @@
 }
 #boxbuttons .button:hover {
 	background: #999;
+},
+.fond{
+	background-image: url(https://s2.best-wallpaper.net/wallpaper/3840x2160/1711/Sea-water-lines_3840x2160.jpg);	
 }
-.q{
-	float: center;
-	width: 300px;
-	margin:25px auto;
-	display:block;
-
-}
-
-.t{
+.text{
+	color: white;
+	}
+.aliniar{
 	text-align: justify;
-
 }
-.p{
-	text-align: justify;
+.fondo{
+	background-image: url(https://st2.depositphotos.com/5266903/10037/v/950/depositphotos_100373330-stock-illustration-contraception-seamless-seamless-flat-vector.jpg);
+}
+.test{
+	color: black;	
+}
+.g{
+	 margin-left:200px;
 }
